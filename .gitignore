@@ -1,0 +1,4 @@
+.vscode/
+__pycache__/
+extracted_info/
+*.pyc
